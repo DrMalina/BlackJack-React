@@ -1,0 +1,15 @@
+.sidebar_Header{
+  display: flex;
+  justify-content: flex-end;
+
+  .icon-cancel{
+    text-align: right;
+    margin-right: 0;
+    cursor: pointer;
+    font-size: 20px;
+
+    &:before{
+      display: inline;
+    }
+  }
+}
