@@ -19,7 +19,11 @@ The site is built on REACT and follows RWD principals.
 * Missing card animation on second and further deals 
 * Fixed score counting - 'ACE' should switch value from 11 to 1 (and other way) in some scenarios
 
-Please note, that it is not the final version yet.
+
+You can preview the project here: http://bljr.surge.sh/#/
+Please note however, that it is not the final version yet.
+
+Enjoy!
  
 
 
